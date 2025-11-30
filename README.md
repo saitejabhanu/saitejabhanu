@@ -1,16 +1,31 @@
-## Hi there 👋
+👋 Hi, I'm Bhanu Sai Teja
 
-<!--
-**saitejabhanu/saitejabhanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Full-Stack Developer | Python & JS Enthusiast
 
-Here are some ideas to get you started:
+I build clean, functional web apps and ML projects. Passionate about React, Node.js, Python, and problem-solving. Previously worked at Wipro (Client: Google) reviewing online content and ensuring policy compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech I Work With
+
+Python | JavaScript | React | Node.js | HTML/CSS | MongoDB | SQL | Git
+
+📌 What I Do
+
+Develop full-stack applications
+
+Build machine learning projects
+
+Create responsive and clean UIs
+
+Perform content quality checks (Wipro experience)
+
+🎉 Fun Facts
+
+I love editing videos and photos
+
+I enjoy learning new technologies through real projects
+
+I believe in clean UI, clean code, and clear thinking
+
+📫 Contact
+
+Email: bhanusaiteja8@gmail.com
